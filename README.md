@@ -33,4 +33,6 @@
 
 <br />
 <br />
-[linkedin]: https://www.linkedin.com/in/edward-izraitel/
+
+
+[linkedin]: https://www.linkedin.com/in/edward-izraitel
